@@ -1,8 +1,8 @@
 Project Structure: 
-all models can be found under application > models 
-all schemas can be found under application > schemas 
-all Apis can be found under application > blueprints > apis 
-all Test stories can be found under application > tests > unit_test > test_stories it will give you Crystal Clear idea as how stories are implemented
+all models can be found under src > back > src > back > application > models 
+all schemas can be found under src > back > application > schemas 
+all Apis can be found under src > back > application > blueprints > apis 
+all Test stories can be found under src > back > application > tests > unit_test > test_stories it will give you Crystal Clear idea as how stories are implemented
 
 Events: 
 i have used sqlalchemy events to update view_count on update (requirement is not clear as when the view_count will increase)
